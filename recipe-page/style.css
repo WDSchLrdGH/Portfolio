@@ -1,0 +1,35 @@
+body{
+    background:hsl(30, 18%, 87%)
+}
+p{
+    font-size:16px;
+    font-family: young-serif, outfit
+}
+img {
+    width:70vw;
+    margin-left: 15vw;
+    border-radius:10px;
+}
+.brown {
+    color:hsl(14, 45%, 36%);
+}
+.prep {
+    background:rgba(255,0,255,0.1);
+    padding:25px;
+    border-radius:10px;
+    width:80vw;
+    margin: 0 auto;
+}
+
+.prep > h3 {
+    color:purple;
+}
+.values {
+display:flex;
+justify-content:space-around;
+align-items:center;
+width:100vw;
+height:20px;}
+.brown > span {
+    color:black;
+}
