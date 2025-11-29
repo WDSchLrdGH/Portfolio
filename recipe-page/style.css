@@ -1,5 +1,5 @@
 body{
-    background:hsl(30, 18%, 87%)
+    background:hsl(30, 54%, 90%);
 }
 p{
     font-size:16px;
@@ -32,4 +32,5 @@ width:100vw;
 height:20px;}
 .brown > span {
     color:black;
+
 }
