@@ -6,6 +6,7 @@ article {
     width:80vw;
     border-radius:20px;
     margin: 0 auto;
+    padding-top:50px;
 }
 p{
     font-size:16px;
@@ -37,9 +38,13 @@ align-items:center;
 width:100vw;
 height:20px;
 }
+.values > span {
+    margin-left: -10vw;
+}
 .brown > span {
     color:black;
 }
+
 
 
 
